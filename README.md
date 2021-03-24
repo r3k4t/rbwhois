@@ -8,7 +8,7 @@
 
 <h6>Author : RKT</h6>
 
-RBWHOIS  is a great source of data for fetching domain  and IP related information, including tech and admin names, telephones, addresses, country, DNS servers, etc.Its build on ruby program.
+RBWHOIS  is a great script of data for fetching domain  and IP related information, including tech and admin names, telephones, addresses, country, DNS servers, etc.Its build on ruby program.
 
 ### Setup ###
 
